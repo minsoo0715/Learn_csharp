@@ -1,0 +1,16 @@
+/mnt/d/learn_cs/bin/Debug/net5.0/learn_cs
+/mnt/d/learn_cs/bin/Debug/net5.0/learn_cs.deps.json
+/mnt/d/learn_cs/bin/Debug/net5.0/learn_cs.runtimeconfig.json
+/mnt/d/learn_cs/bin/Debug/net5.0/learn_cs.runtimeconfig.dev.json
+/mnt/d/learn_cs/bin/Debug/net5.0/learn_cs.dll
+/mnt/d/learn_cs/bin/Debug/net5.0/ref/learn_cs.dll
+/mnt/d/learn_cs/bin/Debug/net5.0/learn_cs.pdb
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.csprojAssemblyReference.cache
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.AssemblyInfoInputs.cache
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.AssemblyInfo.cs
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.csproj.CoreCompileInputs.cache
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.dll
+/mnt/d/learn_cs/obj/Debug/net5.0/ref/learn_cs.dll
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.pdb
+/mnt/d/learn_cs/obj/Debug/net5.0/learn_cs.genruntimeconfig.cache
