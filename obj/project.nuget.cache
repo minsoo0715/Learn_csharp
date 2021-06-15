@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X8z0lr48WtDWP8i29MBPJBjvDC8lgPXkFDebL/0W4IGvNBPSN0axAZCnZKp8d8SW2HeswlJ8oiEcKx/tNI/PpA==",
+  "dgSpecHash": "gr1J17eFF4AKoUHEgQvzK99zV6kbwGpKb8DKJT5DNXRPIJ2wekZ+kvyP64CfxRO6kmJJBrVeKPrzq4bj/tk+RA==",
   "success": true,
-  "projectFilePath": "/mnt/d/learn_cs/learn_cs.csproj",
+  "projectFilePath": "D:\\learn_cs\\learn_cs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

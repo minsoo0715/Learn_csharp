@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/d/learn_cs/learn_cs.csproj": {}
+    "D:\\learn_cs\\learn_cs.csproj": {}
   },
   "projects": {
-    "/mnt/d/learn_cs/learn_cs.csproj": {
+    "D:\\learn_cs\\learn_cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/d/learn_cs/learn_cs.csproj",
+        "projectUniqueName": "D:\\learn_cs\\learn_cs.csproj",
         "projectName": "learn_cs",
-        "projectPath": "/mnt/d/learn_cs/learn_cs.csproj",
-        "packagesPath": "/home/whiteb/.nuget/packages/",
-        "outputPath": "/mnt/d/learn_cs/obj/",
+        "projectPath": "D:\\learn_cs\\learn_cs.csproj",
+        "packagesPath": "C:\\Users\\minso\\.nuget\\packages\\",
+        "outputPath": "D:\\learn_cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/whiteb/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\minso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/whiteb/.dotnet/store/|arch|/|tfm|",
-      "/home/whiteb/.nuget/packages"
+      "C:\\Users\\minso\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\minso\\.nuget\\packages"
     ]
   }
 }
